@@ -1,0 +1,1556 @@
+<index>
+	<file>opensuny/SWDM.pdf</file>
+    
+    <entries>
+		<entry>
+			<phrase>r-combination</phrase>
+			<pagenumbers>
+				<number>235</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>r-permutation</phrase>
+			<pagenumbers>
+				<number>230</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>additive identity</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>additive inverse</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>affirmation of the consequence</phrase>
+			<pagenumbers>
+				<number>50</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>algebraic structure</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>anchor step</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>antecedent</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>antisymmetric property</phrase>
+			<pagenumbers>
+				<number>201</number>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>arc</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>arrow diagram</phrase>
+			<pagenumbers>
+				<number>160</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>assertion</phrase>
+			<pagenumbers>
+				<number>9</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>associative property</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>basis step</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>biconditional statement</phrase>
+			<pagenumbers>
+				<number>24</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>bijection</phrase>
+			<pagenumbers>
+				<number>184</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>bijective function</phrase>
+			<pagenumbers>
+				<number>184</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>binary operator</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>binary string</phrase>
+			<pagenumbers>
+				<number>221</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>binomial coefficient</phrase>
+			<pagenumbers>
+				<number>244</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>binomial theorem</phrase>
+			<pagenumbers>
+				<number>243</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>canonical factorization</phrase>
+			<pagenumbers>
+				<number>142</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>cardinality</phrase>
+			<pagenumbers>
+				<number>86</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Cartesian product</phrase>
+			<pagenumbers>
+				<number>105</number>
+			</pagenumbers>
+            <subentries>
+        		<entry>
+        			<phrase>n-fold</phrase>
+        			<pagenumbers>
+        				<number>106</number>
+        			</pagenumbers>
+        		</entry>
+            </subentries>
+        </entry>
+		<entry>
+			<phrase>ceiling function</phrase>
+			<pagenumbers>
+				<number>158</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>chain</phrase>
+			<pagenumbers>
+				<number>218</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>circular permutation</phrase>
+			<pagenumbers>
+				<number>233</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>clock arithmetic</phrase>
+			<pagenumbers>
+				<number>146</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>closed interval</phrase>
+			<pagenumbers>
+				<number>83</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>codomain</phrase>
+			<pagenumbers>
+				<number>157</number>
+				<number>159</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>coefficient</phrase>
+			<pagenumbers>
+				<number>76</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>collection of sets</phrase>
+			<pagenumbers>
+				<number>86</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>combination</phrase>
+			<pagenumbers>
+				<number>235</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>common divisor</phrase>
+			<pagenumbers>
+				<number>129</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>common factor</phrase>
+			<pagenumbers>
+				<number>129</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>commutative property</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>complement</phrase>
+			<pagenumbers>
+				<number>98</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>complete relation</phrase>
+			<pagenumbers>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>component</phrase>
+			<pagenumbers>
+				<number>209</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>composite function</phrase>
+			<pagenumbers>
+				<number>189</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>composite number</phrase>
+			<pagenumbers>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>compound statement</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>conclusion</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>conditional statement</phrase>
+			<pagenumbers>
+				<number>18</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>congruent</phrase>
+			<pagenumbers>
+				<number>146</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>conjunction</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>consequence</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>constant function</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>constructive proof</phrase>
+			<pagenumbers>
+				<number>44</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>contingency</phrase>
+			<pagenumbers>
+				<number>28</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>contradiction</phrase>
+			<pagenumbers>
+				<number>28</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>contrapositive</phrase>
+			<pagenumbers>
+				<number>20</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>converse</phrase>
+			<pagenumbers>
+				<number>20</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>corollary</phrase>
+			<pagenumbers>
+				<number>51</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>decreasing function</phrase>
+			<pagenumbers>
+				<number>166</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>denial of the antecedent</phrase>
+			<pagenumbers>
+				<number>50</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>De Morgan’s laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+			</pagenumbers>         
+            <subentries>
+        		<entry>
+        			<phrase>extended</phrase>
+        			<pagenumbers>
+        				<number>114</number>
+        			</pagenumbers>
+        		</entry>
+        		<entry>
+        			<phrase>generalized</phrase>
+        			<pagenumbers>
+        				<number>102digraph</number>
+        				<number>199</number>
+        			</pagenumbers>
+        		</entry>
+            </subentries>
+        </entry>
+		<entry>
+			<phrase>direct proof</phrase>
+			<pagenumbers>
+				<number>47</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>directed edge</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>directed graph</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>directed line</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>disjoint sets</phrase>
+			<pagenumbers>
+				<number>222</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>disjoint union</phrase>
+			<pagenumbers>
+				<number>222</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>disjunction</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>distributive laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>dividend</phrase>
+			<pagenumbers>
+				<number>120</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>divisibility</phrase>
+			<pagenumbers>
+				<number>125</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>division algorithm</phrase>
+			<pagenumbers>
+				<number>120</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>divisor</phrase>
+			<pagenumbers>
+				<number>120</number>
+				<number>125</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>domain</phrase>
+			<pagenumbers>
+				<number>157</number>
+				<number>159</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>domain of a relation</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>domination laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>dot</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>element</phrase>
+			<pagenumbers>
+				<number>81</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>empty relation</phrase>
+			<pagenumbers>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>empty set</phrase>
+			<pagenumbers>
+				<number>85</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>equality of sets</phrase>
+			<pagenumbers>
+				<number>85</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>equivalence class</phrase>
+			<pagenumbers>
+				<number>209</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>equivalence relation</phrase>
+			<pagenumbers>
+				<number>208</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Euclid’s lemma</phrase>
+			<pagenumbers>
+				<number>138</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Euclidean algorithm</phrase>
+			<pagenumbers>
+				<number>130</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>extended</phrase>
+			<pagenumbers>
+				<number>133</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>even integer</phrase>
+			<pagenumbers>
+				<number>48</number>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>exclusive or</phrase>
+			<pagenumbers>
+				<number>15</number>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>existential quantification</phrase>
+			<pagenumbers>
+				<number>38</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>existential quantifier</phrase>
+			<pagenumbers>
+				<number>38</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>factor</phrase>
+			<pagenumbers>
+				<number>125</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>fallacy of the converse</phrase>
+			<pagenumbers>
+				<number>50</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>fallacy of the inverse</phrase>
+			<pagenumbers>
+				<number>50</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>family of sets</phrase>
+			<pagenumbers>
+				<number>86</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Fibonacci numbers</phrase>
+			<pagenumbers>
+				<number>73</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>field</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>finite set</phrase>
+			<pagenumbers>
+				<number>86</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>floor function</phrase>
+			<pagenumbers>
+				<number>158</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>function</phrase>
+			<pagenumbers>
+				<number>159</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>fundamental theorem of arithmetic</phrase>
+			<pagenumbers>
+				<number>141</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>fundamental theorem on equivalence relations</phrase>
+			<pagenumbers>
+				<number>211</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Goldbach Conjecture</phrase>
+			<pagenumbers>
+				<number>11</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>graph</phrase>
+			<pagenumbers>
+				<number>162</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>greatest common divisor</phrase>
+			<pagenumbers>
+				<number>129</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>half-open interval</phrase>
+			<pagenumbers>
+				<number>83</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Hasse diagram</phrase>
+			<pagenumbers>
+				<number>217</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>hypothesis</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>idempotent laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>identity function</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>identity laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>identity relation</phrase>
+			<pagenumbers>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>image</phrase>
+			<pagenumbers>
+				<number>159</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>image of a function</phrase>
+			<pagenumbers>
+				<number>157</number>
+				<number>177</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>image of a relation</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>image of a set</phrase>
+			<pagenumbers>
+				<number>176</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>implication</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>incidence matrix</phrase>
+			<pagenumbers>
+				<number>163</number>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inclusive or</phrase>
+			<pagenumbers>
+				<number>15</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>increasing function</phrase>
+			<pagenumbers>
+				<number>166</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>index of summation</phrase>
+			<pagenumbers>
+				<number>61</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>index set</phrase>
+			<pagenumbers>
+				<number>112</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>indexed family</phrase>
+			<pagenumbers>
+				<number>112</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>indirect proof</phrase>
+			<pagenumbers>
+				<number>52</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>induction hypothesis</phrase>
+			<pagenumbers>
+				<number>59</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inductive hypothesis</phrase>
+			<pagenumbers>
+				<number>59</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inductive step</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>initial step</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>injection</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>injective function</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>intersection</phrase>
+			<pagenumbers>
+				<number>97</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>interval notation</phrase>
+			<pagenumbers>
+				<number>83</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inverse</phrase>
+			<pagenumbers>
+				<number>20</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inverse function</phrase>
+			<pagenumbers>
+				<number>184</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>inverse laws</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>irreflexive property</phrase>
+			<pagenumbers>
+				<number>201</number>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>law of detachment</phrase>
+			<pagenumbers>
+				<number>47</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>law of syllogism</phrase>
+			<pagenumbers>
+				<number>47</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>laws of the excluded middle</phrase>
+			<pagenumbers>
+				<number>31</number>
+				<number>100</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>least common multiple</phrase>
+			<pagenumbers>
+				<number>143</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>linear combination</phrase>
+			<pagenumbers>
+				<number>127</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>linear combination</phrase>
+			<pagenumbers>
+				<number>76</number>
+				<number>132</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>linear ordering</phrase>
+			<pagenumbers>
+				<number>218</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>logical operator</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>logical connectives</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>logical equivalence</phrase>
+			<pagenumbers>
+				<number>30</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>many-to-one function</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>map</phrase>
+			<pagenumbers>
+				<number>160</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>mapping</phrase>
+			<pagenumbers>
+				<number>160</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>mathematical induction</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+            <subentries>
+        		<entry>
+        			<phrase>strong form</phrase>
+        			<pagenumbers>
+        				<number>74</number>
+        			</pagenumbers>
+        		</entry>
+        		<entry>
+        			<phrase>weak form</phrase>
+        			<pagenumbers>
+        				<number>74</number>
+        			</pagenumbers>
+        		</entry>
+            </subentries>
+        </entry>
+		<entry>
+			<phrase>matrix representation</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>member</phrase>
+			<pagenumbers>
+				<number>81</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>modular arithmetic</phrase>
+			<pagenumbers>
+				<number>146</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>modulus</phrase>
+			<pagenumbers>
+				<number>146</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>modus ponens</phrase>
+			<pagenumbers>
+				<number>47</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>money changing problem</phrase>
+			<pagenumbers>
+				<number>77</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>multiple</phrase>
+			<pagenumbers>
+				<number>48</number>
+				<number>125</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>multiplication principle</phrase>
+			<pagenumbers>
+				<number>108</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>multiplicative identity</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>multiplicative inverse</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>multiset</phrase>
+			<pagenumbers>
+				<number>88</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>nearest integer function</phrase>
+			<pagenumbers>
+				<number>157</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>necessary condition</phrase>
+			<pagenumbers>
+				<number>22</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>necessity</phrase>
+			<pagenumbers>
+				<number>93</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>negation</phrase>
+			<pagenumbers>
+				<number>11</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>negative</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>non-trivial divisor</phrase>
+			<pagenumbers>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>odd integer</phrase>
+			<pagenumbers>
+				<number>48</number>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>one-to-one function</phrase>
+			<pagenumbers>
+				<number>165</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>onto function</phrase>
+			<pagenumbers>
+				<number>158</number>
+				<number>171</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>open interval</phrase>
+			<pagenumbers>
+				<number>83</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>operand</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>ordered pair</phrase>
+			<pagenumbers>
+				<number>104</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>ordered n-tuples</phrase>
+			<pagenumbers>
+				<number>106</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>pairwise disjoint sets</phrase>
+			<pagenumbers>
+				<number>123</number>
+				<number>222</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>part</phrase>
+			<pagenumbers>
+				<number>209</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>partial ordering</phrase>
+			<pagenumbers>
+				<number>216</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>partial-order relation</phrase>
+			<pagenumbers>
+				<number>216</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>partially ordered set</phrase>
+			<pagenumbers>
+				<number>216</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>partition of a set</phrase>
+			<pagenumbers>
+				<number>123</number>
+				<number>209</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Pascal triangle</phrase>
+			<pagenumbers>
+				<number>248</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Pascal’s identity</phrase>
+			<pagenumbers>
+				<number>248</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>permutation</phrase>
+			<pagenumbers>
+				<number>230</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>poset</phrase>
+			<pagenumbers>
+				<number>216</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>postage stamp problem</phrase>
+			<pagenumbers>
+				<number>77</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>power set</phrase>
+			<pagenumbers>
+				<number>94</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>precedence</phrase>
+			<pagenumbers>
+				<number>25</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>predecessor</phrase>
+			<pagenumbers>
+				<number>217</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>predicate</phrase>
+			<pagenumbers>
+				<number>36</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>preimage of a set</phrase>
+			<pagenumbers>
+				<number>179</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>premise</phrase>
+			<pagenumbers>
+				<number>17</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>prime</phrase>
+			<pagenumbers>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>prime-power factorization</phrase>
+			<pagenumbers>
+				<number>142</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>principle of inclusion-exclusion</phrase>
+			<pagenumbers>
+				<number>223</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>principle of mathematical induction</phrase>
+			<pagenumbers>
+				<number>58</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>principle of well-ordering</phrase>
+			<pagenumbers>
+				<number>117</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>priority</phrase>
+			<pagenumbers>
+				<number>25</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proof by cases</phrase>
+			<pagenumbers>
+				<number>49</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proof by contradiction</phrase>
+			<pagenumbers>
+				<number>53</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proof by contrapositive</phrase>
+			<pagenumbers>
+				<number>52</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proper divisor</phrase>
+			<pagenumbers>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proper subset</phrase>
+			<pagenumbers>
+				<number>93</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>proposition</phrase>
+			<pagenumbers>
+				<number>9</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>propositional function</phrase>
+			<pagenumbers>
+				<number>36</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>propositional variable</phrase>
+			<pagenumbers>
+				<number>11</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>quotient</phrase>
+			<pagenumbers>
+				<number>120</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>range</phrase>
+			<pagenumbers>
+				<number>158</number>
+				<number>177</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>range of a relation</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>reciprocal</phrase>
+			<pagenumbers>
+				<number>152</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>recurrence relation</phrase>
+			<pagenumbers>
+				<number>73</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>reflexive property</phrase>
+			<pagenumbers>
+				<number>201</number>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>relation between two sets</phrase>
+			<pagenumbers>
+				<number>197</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>relation on a set</phrase>
+			<pagenumbers>
+				<number>201</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>relative complement</phrase>
+			<pagenumbers>
+				<number>98</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>relative prime</phrase>
+			<pagenumbers>
+				<number>132</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>remainder</phrase>
+			<pagenumbers>
+				<number>120</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>repeated squaring</phrase>
+			<pagenumbers>
+				<number>150</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>residue classes modulo n</phrase>
+			<pagenumbers>
+				<number>212</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>residues</phrase>
+			<pagenumbers>
+				<number>147</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>roster method</phrase>
+			<pagenumbers>
+				<number>81</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>set</phrase>
+			<pagenumbers>
+				<number>81</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>set difference</phrase>
+			<pagenumbers>
+				<number>98</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>set of integers modulo n</phrase>
+			<pagenumbers>
+				<number>151</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>set-builder notation</phrase>
+			<pagenumbers>
+				<number>81</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>short circuit evaluation</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>sigma notation</phrase>
+			<pagenumbers>
+				<number>61</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>statement</phrase>
+			<pagenumbers>
+				<number>9</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>subposet</phrase>
+			<pagenumbers>
+				<number>219</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>successor</phrase>
+			<pagenumbers>
+				<number>217</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>sufficiency</phrase>
+			<pagenumbers>
+				<number>93</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>sufficient condition</phrase>
+			<pagenumbers>
+				<number>22</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>summation notation</phrase>
+			<pagenumbers>
+				<number>61</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>superset</phrase>
+			<pagenumbers>
+				<number>90</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>surjection</phrase>
+			<pagenumbers>
+				<number>171</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>surjective function</phrase>
+			<pagenumbers>
+				<number>171</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>symmetric property</phrase>
+			<pagenumbers>
+				<number>201</number>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>tautology</phrase>
+			<pagenumbers>
+				<number>28</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>total ordering</phrase>
+			<pagenumbers>
+				<number>217</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>transformation</phrase>
+			<pagenumbers>
+				<number>160</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>transitive property</phrase>
+			<pagenumbers>
+				<number>92</number>
+				<number>127</number>
+				<number>201</number>
+				<number>202</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>trivial divisor</phrase>
+			<pagenumbers>
+				<number>126</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>truth table</phrase>
+			<pagenumbers>
+				<number>11</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>twin primes</phrase>
+			<pagenumbers>
+				<number>38</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>unary operator</phrase>
+			<pagenumbers>
+				<number>14</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>union</phrase>
+			<pagenumbers>
+				<number>97</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>universal quantification</phrase>
+			<pagenumbers>
+				<number>37</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>universal quantifier</phrase>
+			<pagenumbers>
+				<number>37</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>universal set</phrase>
+			<pagenumbers>
+				<number>89</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Venn diagram</phrase>
+			<pagenumbers>
+				<number>90</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>vertex</phrase>
+			<pagenumbers>
+				<number>199</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>well-ordered set</phrase>
+			<pagenumbers>
+				<number>118</number>
+			</pagenumbers>
+		</entry>
+		<entry>
+			<phrase>Young tableau</phrase>
+			<pagenumbers>
+				<number>221</number>
+			</pagenumbers>
+		</entry>
+    </entries>
+</index>
