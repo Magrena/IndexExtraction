@@ -1,0 +1,549 @@
+“Slave Power”, 395
+abolitionist, 379, 385
+Abu Ghraib, 960
+Afghan Northern Alliance, 954 
+Age of Reason, 114
+agrarian society, 20
+al-Qaeda, 952, 978
+alcalde, 312, 327
+Alliance for Progress, 859 
+American Equal Rights Association, 464
+American individualism, 736, 752
+American Missionary Association, 457
+American Party, 405, 415 
+American River, 320
+American System, 278, 297 
+Americanization, 499, 505 
+antebellum, 332, 358 
+Anti-Federalists, 205, 208 
+Anti-Imperialist League, 645, 657
+Antietam, 429
+appeasement, 790
+Army of the Potomac, 429, 447 
+Army of the West, 430, 447 
+Articles of Confederation, 197 
+artisan, 269
+artisans, 244
+Atlanta Compromise, 617, 629
+baby boom, 840, 850
+bank run, 752
+bank runs, 730
+Banking Act of 1935, 774 
+Barnburners, 324, 327
+Battle of New Orleans, 237 
+Battle of Wounded Knee, 499, 505
+Bell, 512
+Beringia, 8, 30 
+bicameral, 203, 208 
+Big Three, 808, 817 
+Bill of Rights, 213, 238 
+Black Cabinet, 778 
+black codes, 458, 476 
+Black Death, 18, 30 
+Black Legend, 53, 59
+Black Power, 874, 882
+Black Pride, 876, 882
+black separatism, 875, 882 
+Black Tuesday, 728, 752 
+blacklist, 831, 850
+Bleeding Kansas, 404, 415 
+bloody shirt campaign, 577, 598 
+bonanza farms, 489, 505
+Bonus Army, 739, 752 
+boomerang generation, 975, 978 
+bootlegging, 712, 719
+border ruffians, 402, 415
+Boston Harbor, 156
+Boston Massacre, 141, 151 
+Boxer Rebellion, 637
+Brains Trust, 758, 783
+Bucktails, 276
+Bull Run Creek, 426
+Bunker Hill, 159
+Bush Doctrine, 953, 978
+California Gold Rush, 491, 505 
+Californios, 317, 327 
+Calvinism, 44, 59 
+carpetbagger, 476 
+carpetbaggers, 470
+Carter Doctrine, 914, 915 
+cash crop, 332, 358 
+charter schools, 959, 978 
+chasquis, 13, 30
+chattel slavery, 27, 30
+checks and balances, 195, 208 
+chinampas, 12, 30
+circuit riders, 363
+Citizen Genêt affair, 220, 238 
+City Beautiful, 560, 567
+civil service, 576, 598
+civil unions, 968, 978
+Civil Works Administration, 765
+Civilian Conservation Corps, 765, 783
+Clark Memorandum, 749, 752 
+clear and present danger, 673, 689
+code of deference, 274, 297 
+Coercive Acts, 146, 151
+Cold War, 826, 850 
+collateralized debt obligations, 963
+colonization, 377, 385 
+Columbian Exchange, 55, 59
+Comanche, 311
+Committee of Correspondence, 144
+Committee of Public Information, 671
+Committees of Correspondence, 151
+commodification, 55, 59 
+Compromise of 1850, 326, 327, 415
+Compromise of 1877, 475, 476 
+Comstock Lode, 491, 505 
+concurrent majority, 352, 358 
+Confederacy, 423, 447 
+confiscation acts, 173, 179 
+Connecticut Compromise, 203, 208
+conscientious objectors, 797, 817
+conservative Whigs, 185, 208 
+containment, 827, 850 
+Continental currency, 177, 179 
+contrabands, 435, 447
+Contract with America, 941, 948
+Contras, 932
+Copperheads, 444, 447, 455 
+Corps of Discovery, 303, 327 
+corrupt bargain, 277, 297 
+cotton boom, 332, 358
+cotton gin, 332, 358 
+counterculture, 886, 915 
+counterinsurgency, 859, 882 
+coverture, 187, 208
+Coxey’s Army, 592, 598
+credit default swaps, 963, 978 
+Crédit Mobilier of America scandal, 576
+Crittenden Compromise, 421, 447
+crop-lien system, 469, 476 
+Crusades, 21, 30
+Cumberland Road, 260, 269
+D-day, 809, 817
+Daughters of Liberty, 134, 151 
+Deep Throat, 908, 915 
+Defense of Marriage Act, 976 
+deism, 113, 120
+democracy, 185, 208 
+Democratic-Republicans, 217, 238
+Depression of 1893, 591 
+desegregation, 847, 850 
+deskilling, 247, 269 
+détente, 900, 915
+direct primary, 604, 629 
+direct tax, 130, 151
+Dixiecrats, 895, 915
+dollar diplomacy, 655, 657 
+domestic slave trade, 335, 358 
+Dominion of New England, 103, 120
+domino theory, 827, 850 
+Double V campaign, 805 
+Double Vcampaign, 817
+Dred Scott v. Sandford, 406, 415 
+Dunmore’s Proclamation, 160, 179
+Dust Bowl, 743, 752
+Dutch West India Company, 68
+Edison, 513
+Electoral College, 204, 208 
+Emancipation Proclamation, 436, 447
+Embargo Act of 1807, 232 
+Emergency Banking Act, 762 
+empresario, 311, 327 
+encomienda, 59
+encomiendas, 52
+Enforcement Acts, 472
+English interregnum, 97, 120 
+Enlightenment, 112, 120
+Enola Gay, 814, 817
+Erie Canal, 260, 269 
+eugenicists, 617
+Executive Order 9066, 806, 817 
+executive privilege, 909, 915 
+exodusters, 485, 505 
+expatriate, 713, 719
+Fair Deal, 825, 850
+farm holidays, 738 
+Farmerettes, 675
+Farmers’ Alliance, 588, 598 
+Fascism, 789, 817
+federal minimum wage, 825 
+Federalists, 204, 208
+Fence Cutting War, 495, 505 
+feudal society, 19, 30 
+filibuster, 307, 327 
+Fire-Eaters, 411, 415 
+fireside chat, 762
+First Great Awakening, 110,120
+Five Civilized Tribes, 289, 297 
+flapper, 708, 719
+flexible response, 859, 882 
+Florida land boom, 726
+Ford Hunger March, 738 
+Fordlandia, 696
+Fort Sumter, 424, 447 
+forty-niners, 321, 327
+Fourteen Points, 682, 689 
+Franklin Delano Roosevelt, 757 
+free moral agency, 266, 269 
+Free-Soil Party, 324, 327, 415 
+Freedmen’s Bureau, 457, 476 
+Freemasons, 113, 120
+Freeport Doctrine, 410, 415 
+French and Indian War, 117, 120
+Frontier Thesis, 637, 657
+gender gap, 942, 948
+general in chief, 429, 447 
+Gettysburg Address, 439, 447 
+GI Bill, 823, 850
+Gilded Age, 572, 598
+Giuseppe Zangara, 760 
+Glass-Steagall Banking Act, 764 
+globalization, 34
+Glorious Revolution, 103, 120 
+graft, 554, 567
+Grange, 587, 598
+Great Migration, 549, 567 
+Great Recession, 964, 978 
+Great Society, 863, 882
+Greek civil war, 827
+Green Party, 946, 948 
+Greenback Party, 588 
+greenbacks, 433, 447 
+greenhouse gases, 969, 978
+habeas corpus, 431, 447 
+Half-Breeds, 581, 598
+Harlem Hellfighters, 675, 689 
+Harpers Ferry, 411, 415 
+Haymarket affair, 526, 535 
+headright system, 76, 91 
+Heritage Foundation, 926, 948 
+Hessians, 164, 179
+Higher Education Act, 864 
+Hillarycare, 941
+Hippies, 886
+Hispaniola, 36, 59 
+HIV/AIDS, 929, 948
+holding company, 520, 535 
+Hollywood, 695, 719 
+Homeland Security Act, 957 
+Homestead Act, 483 
+Hoover, 724
+Hoover Moratorium, 749 
+horizontal integration, 519, 535 
+Huey “Kingfish” Long, 773 
+hydroelectric power, 770 
+hydropathy, 375
+identity politics, 886, 915 
+immediatism, 380, 385 
+impressment, 220, 238 
+Inca, 55
+indenture, 76, 91
+Indian Removal Act, 290 
+indirect tax, 130, 151 
+indulgences, 43, 59 
+initiative, 605, 629 
+Inquisition, 23, 30 
+instrumentalism, 561, 567 
+internment, 806, 817 
+interregnum, 760, 783 
+Intolerable Acts, 146, 151 
+Iron Curtain, 827, 850 
+Ironclad Oath, 453, 476 
+Irreconcilables, 684, 689
+Jackie Robinson, 844 
+Jesuits, 70, 91
+Jim Crow, 459
+joint stock companies, 47 
+joint stock company, 59 
+José Martí, 641
+Kamikaze, 813 
+Kansas-Nebraska bill, 401 
+Kellogg-Briand Pact, 789 
+Kitchen Cabinet, 282, 297 
+Koran, 20, 30
+Ku Klux Klan, 470, 476 
+Kyoto Protocol, 969, 978
+labor theory of value, 251, 269 
+land fever, 256
+land offices, 253, 269
+las Gorras Blancas, 504, 505 
+League of Nations, 682, 689 
+letters of marque, 220, 238 
+Levittown, 838
+Levittowns, 850
+liberty bonds, 670, 689 
+Liberty Party, 324, 327
+Little Rock Nine, 848, 850 
+log cabin campaign, 295, 297 
+Long Telegram, 827
+Lost Generation, 713, 719 
+Louisiana Purchase, 230, 238 
+Loyalist, 125
+Loyalists, 151
+machine politics, 554, 567 
+machine tools, 258, 269 
+majority rule, 185, 208 
+malaria, 650
+Manhattan Project, 814, 817 
+Manifest Destiny, 481, 505
+manumission, 208 
+manumissions, 192
+Marbury v. Madison, 230, 238 
+maroon communities, 87, 91 
+Marshall Plan, 828, 850 
+Mary McLeod Bethune, 778 
+Massachusetts Circular, 139, 151
+massive retaliation, 835, 850 
+materiel, 793, 817 
+matriarchy, 17, 30 
+Mayflower, 49
+McDonalds, 839
+Mecklenburg Resolves, 160, 179 
+mercantilism, 55, 59
+Mexican Cession, 319, 327, 390 
+middle class, 557
+Middle Passage, 87, 91 
+military-industrial complex, 835, 850
+millennialism, 363, 385 
+minutemen, 158, 179 
+miscegenation, 409, 415 
+missionaries, 66
+Missouri Compromise, 309, 327 
+mita, 14, 30
+Model T, 695, 719
+Mohawk and Hudson Railroad, 262, 269
+Molly Maguires, 524, 535 
+Monarchy, 184
+monarchy, 208
+monopoly, 519, 535
+monster bank, 285, 297 
+Montesquieu, 195
+Moral Majority, 926
+moral suasion, 379, 385 
+Mormons, 370, 385
+Morrill Act, 433
+mourning wars, 58, 59
+moving assembly line, 696, 719 
+muckrakers, 602, 629 
+Mugwumps, 584, 598
+musket, 88, 91
+Muslim, 25
+Mutually Assured Destruction, 835
+NAACP, 619, 629
+national bank, 216
+National Labor Relations Board, 775
+National Organization for Women, 893
+National Recovery Administration, 769
+nativism, 700, 719
+naturalism, 562, 567
+naval quarantine, 860, 882 
+Navigation Acts, 102, 120 
+Negro nationalism, 711, 719 
+neutrality, 666, 689
+New Deal, 758
+New Freedom, 625, 629
+New Jersey Plan, 203
+new morality, 708, 719
+New Nationalism, 625, 629 
+New Right, 921, 948
+New York City Draft Riots, 444 
+Niagara Movement, 618, 629 
+No Child Left Behind Act, 959 
+no taxation without representation, 133, 151 
+non-importation movement, 135, 151
+nonconformist, 105 
+nonconformists, 120
+Northwest Passage, 302, 327 
+nullification, 283, 297
+Obamacare, 972, 978
+Okies, 744
+Open Door notes, 648, 657 
+Operation Desert Storm, 935, 948
+Ostend Manifesto, 355, 358
+Pancho Villa, 664
+Panic of 1819, 311
+Panic of 1873, 582
+Parents Music Resource Center,928
+paternalism, 337, 358 
+patroonships, 69, 91
+Peace Corps, 859
+Pentagon Papers, 905, 915 
+Petticoat affair, 282 
+photojournalism, 603 
+Phrenology, 375
+phrenology, 385
+pietistic, 368, 385
+Pilgrims, 48, 59
+pink collar, 732
+plumbers, 907, 915 
+polygenism, 353, 358 
+polygyny, 24, 30
+polytheistic, 9
+popular sovereignty, 160, 179, 415
+Populist Party, 590, 598
+Port Huron Statement, 878, 882 
+pragmatism, 561, 567 
+privateers, 47, 59
+probanza de mérito, 37, 59 
+Proclamation Line, 128, 151 
+Progressive Party, 624, 629 
+progressive tax, 606 
+Progressivism, 604, 629 
+Prohibition, 676
+prohibition, 689
+proportional representation, 203, 208
+proprietary colonies, 97, 120 
+Protestant Reformation, 42, 59 
+Puritans, 44, 59
+putting-out system, 245, 269
+Quartering Act, 132 
+quipu, 13, 30
+Radical Republicans, 453, 476 
+Radical Whigs, 185
+radical Whigs, 208
+Rappites, 368
+Reaganomics, 922, 948 
+realism, 561, 567
+recall, 605, 629 
+Reconquista, 21, 30 
+Reconstruction, 452, 476 
+Reconstruction Acts, 461 
+Red Scare, 686, 689
+Red Summer, 685, 689 
+redeemers, 473, 476 
+referendum, 605, 629
+repartimiento, 64, 91
+Report on Public Credit, 214 
+Republic of Fredonia, 312 
+Republic of Sonora, 356 
+Republican Party, 402, 415 
+republicanism, 160, 179 
+Reservationists, 684, 689 
+Restoration colonies, 97, 120 
+return to normalcy, 716, 719 
+Revolution of 1800, 228, 238 
+Rhode Island system, 246 
+Roanoke, 47, 59
+robber baron, 535
+robber barons, 515
+rock and roll, 840, 850 
+Roosevelt Corollary, 652, 657 
+Rosie the Riveter, 801, 817 
+rotation in office, 282, 297 
+Rough Riders, 643, 657
+sacraments, 20
+salutary neglect, 102, 120
+Sand Creek Massacre, 497, 505 
+scalawags, 470, 476
+scientific management, 523, 535 
+Scopes Monkey Trial, 705, 719 
+Scottsboro Boys, 742, 752 
+Second Great Awakening, 362, 385
+Second Ku Klux Klan, 703, 719 
+second middle passage, 343, 358
+second party system, 295, 297 
+Seneca Falls, 383, 385 
+Separatists, 49, 59
+serf, 30
+serfs, 19
+settlement house movement, 546, 567
+Seward’s Folly, 635, 657 
+Shakers, 369, 385 
+sharecropping, 469, 476 
+Sherman’s March to the Sea, 443, 447
+silent majority, 894, 915
+Silent Sentinels, 614, 629
+Slave Power, 324, 327
+Slavery, 105
+smallpox, 57, 59
+Smoot-Hawley Tariff, 749, 752 
+social Darwinism, 517, 535, 561 
+social gospel, 546, 567
+Social Register, 557, 567
+Social Security, 775, 783
+sod house, 505
+sod houses, 488
+Sons of Liberty, 134, 151 
+southern strategy, 169, 894, 915 
+Southern Tenant Farmers Union, 767
+Spanish-American War, 623 
+specie, 256, 269
+Speculation, 726
+speculation, 752
+sphere of influence, 647, 657 
+spoils system, 276, 297
+Sputnik, 837, 850
+Square Deal, 621, 629 
+stagflation, 898, 915
+Stalwarts, 581, 598
+Stamp Act, 131
+START, 935, 948
+state-level reforms, 604
+states’ rights, 848, 850
+Student Nonviolent Coordinating Committee (SNCC), 870
+subprime mortgage, 978 
+subprime mortgages, 963 
+subtreasury plan, 598
+Suffolk Resolves, 147, 151 
+sugarcane, 54, 59
+Supreme Court Packing Plan, 776, 783
+Susquehannock, 77
+Taliban, 953, 978
+Tallmadge Amendment, 309, 327
+Tammany Hall, 554, 567
+Tariff of Abominations, 279, 297
+Taylorism, 607, 629
+Tea Act of 1773, 144
+Tea Party, 973, 978
+Teapot Dome scandal, 717, 719 
+teetotalism, 374, 385
+Tejanos, 311, 327
+temperance, 373, 385
+ten percent plan, 452, 476 
+Tennessee Valley Authority, 770, 783
+the Terror, 219, 238
+thirteen colonies, 160, 179 
+three-fifths compromise, 204, 208
+Timucua, 65, 91
+Title VII, 881, 882
+total war, 431, 447 
+Townshend, 136
+Trail of Tears, 291, 297 
+transcendentalism, 364, 385 
+Treaty of Paris, 118
+trust, 520, 535
+Tuskegee Institute, 796 
+tyranny of the majority, 294, 297
+Underground Railroad, 395, 415
+unicameral, 196, 208
+Union Leagues, 465, 476 
+universal manhood suffrage, 275, 297
+Urbanization, 540
+vertical integration, 520, 535 
+vice-admiralty courts, 130, 151 
+Victory Stamps, 800
+Vietnam Syndrome, 931, 948 
+Vietnamization, 903, 915 
+Virginia Plan, 203
+wampum, 88, 91
+war on drugs, 930, 948
+war on poverty, 864, 882 
+Washington Temperance Society, 375
+Whigs, 285, 297
+Wilmot Proviso, 323, 327 
+Wisconsin Idea, 606, 629 WMDs, 955, 978
+Wobblies, 613, 630
+Working Men’s Party, 251, 269 
+Works Progress Administration, 757, 774, 783
+XYZ affair, 226, 238
+yellow fever, 650
+yellow journalism, 641, 657 
+Yippies, 896, 915
+Yom Kippur War, 898 
+Yorktown, 170, 179 Yuppie, 925
+Zimmermann telegram, 667, 689
+zoot suit, 817
+zoot suits, 806
