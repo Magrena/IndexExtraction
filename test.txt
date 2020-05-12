@@ -1,0 +1,155 @@
+Index
+A
+Arity, 12
+Atomic formulas, 11
+B
+Banach-Tarski paradox, 67
+Boolean algebra, 115
+Boolean combinations, 116
+Boolean connectives, 115
+Boolean operations, 115
+C
+Cantor¡¯s theorem, 172
+Cartesian power, 85
+Cartesian product, 85
+Cartesian square, 85
+Compactness theorem, 16, 132, 134, 137, 141,
+152, 154
+Conic sections, 119
+Conjugation, 163
+Continuum Hypothesis, 7
+D
+Dedekind cut, 62, 63
+in ordered set, 64
+Definable element, 97
+Definition of truth, 13
+Degree of a vertex, 24
+E
+Edge relation, 19
+Elementary extension, 134
+Elimination of quantifiers, 121
+Equinumerosity, 36
+Equivalence relation, 52
+representative, 53
+Euclidean space, 120
+F
+Field, 89
+algebraically closed, 146
+field of complex numbers, 146
+field of real numbers, 89
+First-order formulas, 11
+Formula, 6
+Free variable, 5
+Function, 26
+one-to-one, 26
+onto, 26
+G
+G?del number, 148
+Graph, 19
+I
+Immediate successor, 45
+Inductive definition, 10
+Infinite decimal, 68
+Infinity
+actual infinity, 39
+potential infinity, 39
+Interval, 110
+open, 110
+? Springer International Publishing AG, part of Springer Nature 2018
+R. Kossak, Mathematical Logic, Springer Graduate Texts in Philosophy 3,
+https://doi.org/10.1007/978-3-319-97298-5
+185
+186 Index
+L
+Language of set theory, 72
+Logical symbols, 9
+?, 9
+?, 9
+¡Ä, 9
+?, 9
+¡Å, 9
+Logical visibility, 29
+M
+Mandelbrot set, 163
+Membership relation ¡Ê, 72
+Metric space, 120
+Model, 132
+pseudofinite, 152
+N
+Numbers
+algebraic numbers, 161
+cardinal numbers, 7, 76
+complex numbers, 146
+counting numbers, 36
+irrational numbers, 60, 63
+ordinal numbers, 76, 136
+prime numbers, 3
+rational numbers, 51, 53
+real numbers, 60, 63
+repeating decimal, 68
+transcendental numbers, 162
+O
+One-to-one correspondence, 7
+Ordered pair, 84
+Ordering
+dense, 55
+discrete, 45, 55
+linear, 44
+P
+Parameters, 103
+Permutation, 26, 106
+Property
+commutative, 48
+R
+Ramsey¡¯s theorem, 175
+Random graph, 30
+Rational point, 59
+Relation, 88
+Relation symbols, 9
+S
+Set(s)
+Borel, 121
+cofinite, 105
+countable, 102
+definable, 89
+parametrically definable, 104
+projection of, 118
+singleton, 75
+uncountable, 102
+union of, 73
+unordered pair, 75
+well-ordered, 153
+Standard model of arithmetic, 43, 46, 147
+Structure
+domain of, 47
+minimal, 105
+order-minimal, 110
+ordered, 110
+rigid, 108
+strongly minimal, 153
+symmetry of, 106
+trivial, 16
+Symbolic logic, 8
+System
+complete, 180
+conservative, 180
+consistent, 180
+decidable, 180
+T
+Tennenbaum¡¯s proof, 169
+Theory
+axiomatizable, 132
+complete, 132
+finitely axiomatizable, 132
+first-order, 132
+inconsistent, 132
+model of, 132
+of a structure, 99, 132
+Truth value, 4, 14
+Twin primes, 137
+Type, 27, 107
+V
+Variables, 4, 9
+Venn diagram, 116
+Vitali set, 70
+
