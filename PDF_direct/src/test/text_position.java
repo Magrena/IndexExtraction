@@ -1,5 +1,7 @@
 package test;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -14,17 +16,20 @@ import org.apache.pdfbox.util.TextPosition;
 
 public class text_position extends PDFTextStripper {
 
-public static StringBuilder tWord = new StringBuilder();
-public static String seek;
-public static String[] seekA;
+public StringBuilder tWord = new StringBuilder();
+public String seek;
+public String[] seekA;
 
-public static String a ="Absolute,Additive";
+public String a ="Absolute,Additive";
 
-public static List wordList = new ArrayList();
-public static boolean is1stChar = true;
-public static boolean lineMatch;
-public static int pageNo = 1;
-public static double lastYVal;
+public List wordList = new ArrayList();
+public boolean is1stChar = true;
+public boolean lineMatch;
+public double lastYVal;
+
+public static ArrayList tChar2 = new ArrayList();
+
+
 
 public text_position()
         throws IOException {
@@ -33,10 +38,11 @@ public text_position()
 
 public static void main(String[] args)
         throws Exception {
+	
     PDDocument document = null;
-    seekA = a.split(",");
-    seek = "Absolute";
     try {
+    	BufferedWriter out1 = new BufferedWriter(new FileWriter("test.txt"));
+    	
         File input = new File("test.pdf");
         document = PDDocument.load(input);
 
@@ -48,40 +54,70 @@ public static void main(String[] args)
             PDStream contents = page.getContents();
 
             if (contents != null) {
-                printer.processStream(page, page.findResources(), page.getContents().getStream());
+            	printer.processStream(page, page.findResources(), page.getContents().getStream());
+            	//System.out.println(tChar2);
+            	//out1.write(tChar2);
+            	
             }
-            pageNo += 1;
         }
+        
+        for(int i=0;i<tChar2.size();i++)
+        {
+        	System.out.println(tChar2.get(i));
+        	String a = (String) tChar2.get(i);
+        	out1.write(a);
+        }
+        out1.close();
+        
     } finally {
         if (document != null) {
-            System.out.println(wordList);
+            //System.out.println(wordList);
             document.close();
+            
         }
+        
     }
 }
 
 @Override
 protected void processTextPosition(TextPosition text) {
-    String tChar = text.getCharacter();
-    System.out.println("String[" + text.getXDirAdj() + ","
+    String tChar = "String[" + text.getXDirAdj() + ","
             + text.getYDirAdj() + " fs=" + text.getFontSize() + " xscale="
             + text.getXScale() + " height=" + text.getHeightDir() + " space="
             + text.getWidthOfSpace() + " width="
-            + text.getWidthDirAdj() + "]" + text.getCharacter());
-    String REGEX = "[,.\\[\\](:;!?)/]";
-    char c = tChar.charAt(0);
-    lineMatch = matchCharLine(text);
-    if ((!tChar.matches(REGEX)) && (!Character.isWhitespace(c))) {
-        if ((!is1stChar) && (lineMatch == true)) {
-            appendChar(tChar);
-        } else if (is1stChar == true) {
-            setWordCoord(text, tChar);
-        }
-    } else {
-        endWord();
-    }
-}
+            + text.getWidthDirAdj() + "]" + text.getCharacter()+"\n";
+    tChar2.add(tChar);
+    //System.out.println(tChar);
 
+		
+		
+//    String REGEX = "[,.\\[\\](:;!?)/]";
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+//    char c = tChar.charAt(0);
+//    lineMatch = matchCharLine(text);
+//    if ((!tChar.matches(REGEX)) && (!Character.isWhitespace(c))) {
+//        if ((!is1stChar) && (lineMatch == true)) {
+//            appendChar(tChar);
+//        } else if (is1stChar == true) {
+//            setWordCoord(text, tChar);
+//        }
+//    } else {
+//        endWord();
+//    }
+
+
+/*
 protected void appendChar(String tChar) {
     tWord.append(tChar);
     is1stChar = false;
@@ -121,4 +157,5 @@ protected Double roundVal(Float yVal) {
     Double yValDub = new Double(rounded.format(yVal));
     return yValDub;
 }
+*/
 }
