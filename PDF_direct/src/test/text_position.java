@@ -1,8 +1,11 @@
 package test;
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -36,12 +39,22 @@ public text_position()
     super.setSortByPosition(true);
 }
 
-public static void main(String[] args)
+
+//public static void main(String[] args)
+//        throws Exception {
+//	//position();
+//	getXML("test");
+//	
+//}
+
+
+
+public static void position(int page_begin, int page_end)
         throws Exception {
 	
     PDDocument document = null;
     try {
-    	BufferedWriter out1 = new BufferedWriter(new FileWriter("test.txt"));
+    	BufferedWriter out1 = new BufferedWriter(new FileWriter("location.txt"));
     	
         File input = new File("test.pdf");
         document = PDDocument.load(input);
@@ -49,7 +62,7 @@ public static void main(String[] args)
         text_position printer = new text_position();
         List allPages = document.getDocumentCatalog().getAllPages();
 
-        for (int i = 0; i < allPages.size(); i++) {
+        for (int i = page_begin; i < page_end; i++) {
             PDPage page = (PDPage) allPages.get(i);
             PDStream contents = page.getContents();
 
@@ -63,7 +76,7 @@ public static void main(String[] args)
         
         for(int i=0;i<tChar2.size();i++)
         {
-        	System.out.println(tChar2.get(i));
+        	//System.out.println(tChar2.get(i));
         	String a = (String) tChar2.get(i);
         	out1.write(a);
         }
@@ -81,22 +94,86 @@ public static void main(String[] args)
 
 @Override
 protected void processTextPosition(TextPosition text) {
-    String tChar = "String[" + text.getXDirAdj() + ","
-            + text.getYDirAdj() + " fs=" + text.getFontSize() + " xscale="
-            + text.getXScale() + " height=" + text.getHeightDir() + " space="
-            + text.getWidthOfSpace() + " width="
+    String tChar = text.getXDirAdj() + ","
+            + text.getYDirAdj() + "," + text.getFontSize() + ","
+            + text.getXScale() + "," + text.getHeightDir() + ","
+            + text.getWidthOfSpace() + ","
             + text.getWidthDirAdj() + "]" + text.getCharacter()+"\n";
     tChar2.add(tChar);
     //System.out.println(tChar);
-
-		
-		
-//    String REGEX = "[,.\\[\\](:;!?)/]";
 }
     
+
+
+public static String letter(int i)throws IOException
+{
+	
+	ArrayList<String> str2 = new ArrayList<String>();	//for txt
+	str2 = FileReader.openfile("location.txt");
+	
+	float old_x_axis = 0f;
+	float old_y_axis = 0f;
+	float size_index =0f;
+	float size_capital =0f;
+	float size_normal = 0f;
+	
+	
+	
+//	for(int j=0;j<10;j++)
+//	{
+//		String retval[]= str2.get(j).split(",");
+//		float x_axis = Float.parseFloat(retval[0]);
+//		float y_axis = Float.parseFloat(retval[1]);
+//		float size = Float.parseFloat(retval[4]);
+//		String content[]= str2.get(j).split("]");
+//		String text = content[1];
+//		if(size>size_index&&size_index==0)
+//			size_index = size;
+//		if(size<size_index&&size_capital==0&&j>4)
+//			size_capital = size;
+//		if(size<size_capital&&size_normal==0&&j>4)
+//		{
+//			size_normal = size;
+//			old_x_axis = x_axis;
+//		}
+//	}
+	
+	
+	String content[]= str2.get(i).split("]");
+	String text = content[1];
+	
+	return text;
+		
+	
+}
+public static float y_axis(int i)throws IOException
+{
+	ArrayList<String> str2 = new ArrayList<String>();	//for txt
+	str2 = FileReader.openfile("location.txt");
+
+	String retval[]= str2.get(i).split(",");
+	float y_axis = Float.parseFloat(retval[1]);
+	
+	return y_axis;
+
+}
+
+public static float x_axis(int i)throws IOException
+{
+	ArrayList<String> str2 = new ArrayList<String>();	//for txt
+	str2 = FileReader.openfile("location.txt");
+
+	String retval[]= str2.get(i).split(",");
+	float x_axis = Float.parseFloat(retval[0]);
+	
+	return x_axis;
+
+}
+
+
+}
     
-    
-    
+
     
     
     
@@ -158,4 +235,3 @@ protected Double roundVal(Float yVal) {
     return yValDub;
 }
 */
-}
